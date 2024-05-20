@@ -1,0 +1,16 @@
+﻿@model LabTask_Karma.Models.Blog;
+<form style="margin:200px" method="post">
+        <div class="form-row">
+         <div class="col">
+            <input asp-for="Title" class="form-control" placeholder="Blog Title">
+        </div>
+        <div class="form-row mt-3">
+            <div class="col">
+                <input asp-for="ImagePath" class="form-control" placeholder="Image Path">
+            </div>
+        <div class="form-row mt-3">
+            <div class="col mb-3">
+                <textarea asp-for="Description" class="form-control" id="validationTextarea" placeholder="Description" ></textarea>
+            </div>
+       <button asp-action="create" asp-controller="blog" type="submit" class="btn btn-primary mb-3">Create</button>
+</form>

@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Praktikant\\GarageTask\\LabTask#Karma\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C8440A4-80B1-4518-B0F8-50C195219211}|LabTask#Karma\\LabTask#Karma.csproj|d:\\praktikant\\garagetask\\labtask#karma\\labtask#karma\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C8440A4-80B1-4518-B0F8-50C195219211}|LabTask#Karma\\LabTask#Karma.csproj|solutionrelative:labtask#karma\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C8440A4-80B1-4518-B0F8-50C195219211}|LabTask#Karma\\LabTask#Karma.csproj|d:\\praktikant\\garagetask\\labtask#karma\\labtask#karma\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C8440A4-80B1-4518-B0F8-50C195219211}|LabTask#Karma\\LabTask#Karma.csproj|solutionrelative:labtask#karma\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C8440A4-80B1-4518-B0F8-50C195219211}|LabTask#Karma\\LabTask#Karma.csproj|d:\\praktikant\\garagetask\\labtask#karma\\labtask#karma\\viewmodels\\blogvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C8440A4-80B1-4518-B0F8-50C195219211}|LabTask#Karma\\LabTask#Karma.csproj|solutionrelative:labtask#karma\\viewmodels\\blogvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C8440A4-80B1-4518-B0F8-50C195219211}|LabTask#Karma\\LabTask#Karma.csproj|d:\\praktikant\\garagetask\\labtask#karma\\labtask#karma\\views\\blog\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C8440A4-80B1-4518-B0F8-50C195219211}|LabTask#Karma\\LabTask#Karma.csproj|solutionrelative:labtask#karma\\views\\blog\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C8440A4-80B1-4518-B0F8-50C195219211}|LabTask#Karma\\LabTask#Karma.csproj|d:\\praktikant\\garagetask\\labtask#karma\\labtask#karma\\models\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C8440A4-80B1-4518-B0F8-50C195219211}|LabTask#Karma\\LabTask#Karma.csproj|solutionrelative:labtask#karma\\models\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C8440A4-80B1-4518-B0F8-50C195219211}|LabTask#Karma\\LabTask#Karma.csproj|d:\\praktikant\\garagetask\\labtask#karma\\labtask#karma\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C8440A4-80B1-4518-B0F8-50C195219211}|LabTask#Karma\\LabTask#Karma.csproj|solutionrelative:labtask#karma\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C8440A4-80B1-4518-B0F8-50C195219211}|LabTask#Karma\\LabTask#Karma.csproj|d:\\praktikant\\garagetask\\labtask#karma\\labtask#karma\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C8440A4-80B1-4518-B0F8-50C195219211}|LabTask#Karma\\LabTask#Karma.csproj|solutionrelative:labtask#karma\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C8440A4-80B1-4518-B0F8-50C195219211}|LabTask#Karma\\LabTask#Karma.csproj|d:\\praktikant\\garagetask\\labtask#karma\\labtask#karma\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C8440A4-80B1-4518-B0F8-50C195219211}|LabTask#Karma\\LabTask#Karma.csproj|solutionrelative:labtask#karma\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C8440A4-80B1-4518-B0F8-50C195219211}|LabTask#Karma\\LabTask#Karma.csproj|d:\\praktikant\\garagetask\\labtask#karma\\labtask#karma\\models\\dataaccess\\karmadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C8440A4-80B1-4518-B0F8-50C195219211}|LabTask#Karma\\LabTask#Karma.csproj|solutionrelative:labtask#karma\\models\\dataaccess\\karmadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C8440A4-80B1-4518-B0F8-50C195219211}|LabTask#Karma\\LabTask#Karma.csproj|d:\\praktikant\\garagetask\\labtask#karma\\labtask#karma\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C8440A4-80B1-4518-B0F8-50C195219211}|LabTask#Karma\\LabTask#Karma.csproj|solutionrelative:labtask#karma\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C8440A4-80B1-4518-B0F8-50C195219211}|LabTask#Karma\\LabTask#Karma.csproj|d:\\praktikant\\garagetask\\labtask#karma\\labtask#karma\\viewmodels\\shopvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C8440A4-80B1-4518-B0F8-50C195219211}|LabTask#Karma\\LabTask#Karma.csproj|solutionrelative:labtask#karma\\viewmodels\\shopvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BlogVM.cs",
+              "DocumentMoniker": "D:\\Praktikant\\GarageTask\\LabTask#Karma\\LabTask#Karma\\ViewModels\\BlogVM.cs",
+              "RelativeDocumentMoniker": "LabTask#Karma\\ViewModels\\BlogVM.cs",
+              "ToolTip": "D:\\Praktikant\\GarageTask\\LabTask#Karma\\LabTask#Karma\\ViewModels\\BlogVM.cs",
+              "RelativeToolTip": "LabTask#Karma\\ViewModels\\BlogVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T10:35:43.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Praktikant\\GarageTask\\LabTask#Karma\\LabTask#Karma\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "LabTask#Karma\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Praktikant\\GarageTask\\LabTask#Karma\\LabTask#Karma\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "LabTask#Karma\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAL0AAAAAAAAAAAAAAMYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T10:11:04.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\Praktikant\\GarageTask\\LabTask#Karma\\LabTask#Karma\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "LabTask#Karma\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\Praktikant\\GarageTask\\LabTask#Karma\\LabTask#Karma\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "LabTask#Karma\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T10:11:02.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Praktikant\\GarageTask\\LabTask#Karma\\LabTask#Karma\\Views\\Blog\\Index.cshtml",
+              "RelativeDocumentMoniker": "LabTask#Karma\\Views\\Blog\\Index.cshtml",
+              "ToolTip": "D:\\Praktikant\\GarageTask\\LabTask#Karma\\LabTask#Karma\\Views\\Blog\\Index.cshtml",
+              "RelativeToolTip": "LabTask#Karma\\Views\\Blog\\Index.cshtml",
+              "ViewState": "AQIAAKEAAAAAAAAAAAAAALYAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T09:40:32.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Praktikant\\GarageTask\\LabTask#Karma\\LabTask#Karma\\Views\\Blog\\Create.cshtml",
+              "RelativeDocumentMoniker": "LabTask#Karma\\Views\\Blog\\Create.cshtml",
+              "ToolTip": "D:\\Praktikant\\GarageTask\\LabTask#Karma\\LabTask#Karma\\Views\\Blog\\Create.cshtml",
+              "RelativeToolTip": "LabTask#Karma\\Views\\Blog\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T09:35:59.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BlogController.cs",
+              "DocumentMoniker": "D:\\Praktikant\\GarageTask\\LabTask#Karma\\LabTask#Karma\\Controllers\\BlogController.cs",
+              "RelativeDocumentMoniker": "LabTask#Karma\\Controllers\\BlogController.cs",
+              "ToolTip": "D:\\Praktikant\\GarageTask\\LabTask#Karma\\LabTask#Karma\\Controllers\\BlogController.cs",
+              "RelativeToolTip": "LabTask#Karma\\Controllers\\BlogController.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAuwBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T09:34:00.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "KarmaDbContext.cs",
+              "DocumentMoniker": "D:\\Praktikant\\GarageTask\\LabTask#Karma\\LabTask#Karma\\Models\\DataAccess\\KarmaDbContext.cs",
+              "RelativeDocumentMoniker": "LabTask#Karma\\Models\\DataAccess\\KarmaDbContext.cs",
+              "ToolTip": "D:\\Praktikant\\GarageTask\\LabTask#Karma\\LabTask#Karma\\Models\\DataAccess\\KarmaDbContext.cs",
+              "RelativeToolTip": "LabTask#Karma\\Models\\DataAccess\\KarmaDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T09:32:47.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Blog.cs",
+              "DocumentMoniker": "D:\\Praktikant\\GarageTask\\LabTask#Karma\\LabTask#Karma\\Models\\Blog.cs",
+              "RelativeDocumentMoniker": "LabTask#Karma\\Models\\Blog.cs",
+              "ToolTip": "D:\\Praktikant\\GarageTask\\LabTask#Karma\\LabTask#Karma\\Models\\Blog.cs",
+              "RelativeToolTip": "LabTask#Karma\\Models\\Blog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T09:31:35.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ShopVM.cs",
+              "DocumentMoniker": "D:\\Praktikant\\GarageTask\\LabTask#Karma\\LabTask#Karma\\ViewModels\\ShopVM.cs",
+              "RelativeDocumentMoniker": "LabTask#Karma\\ViewModels\\ShopVM.cs",
+              "ToolTip": "D:\\Praktikant\\GarageTask\\LabTask#Karma\\LabTask#Karma\\ViewModels\\ShopVM.cs",
+              "RelativeToolTip": "LabTask#Karma\\ViewModels\\ShopVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T09:14:33.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Praktikant\\GarageTask\\LabTask#Karma\\LabTask#Karma\\Views\\Shop\\Index.cshtml",
+              "RelativeDocumentMoniker": "LabTask#Karma\\Views\\Shop\\Index.cshtml",
+              "ToolTip": "D:\\Praktikant\\GarageTask\\LabTask#Karma\\LabTask#Karma\\Views\\Shop\\Index.cshtml",
+              "RelativeToolTip": "LabTask#Karma\\Views\\Shop\\Index.cshtml",
+              "ViewState": "AQIAAHYAAAAAAAAAAAAAwH0AAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T09:12:40.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ShopController.cs",
+              "DocumentMoniker": "D:\\Praktikant\\GarageTask\\LabTask#Karma\\LabTask#Karma\\Controllers\\ShopController.cs",
+              "RelativeDocumentMoniker": "LabTask#Karma\\Controllers\\ShopController.cs",
+              "ToolTip": "D:\\Praktikant\\GarageTask\\LabTask#Karma\\LabTask#Karma\\Controllers\\ShopController.cs",
+              "RelativeToolTip": "LabTask#Karma\\Controllers\\ShopController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAWwA8AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T09:12:36.619Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
